@@ -5,9 +5,9 @@
 <img src="https://i.postimg.cc/prdmrBsS/1767051599520-4.jpg" />
 </p>
 
-- 🔭 I’m currently working on **Vortex-IP Rotator**
+- 🔭 I’m currently working on **Networking**
 - 🌱 I’m currently learning **Advanced Network Security**
-- 💬 Ask me about **Termux, Python, or Anonymity**
+- 💬 Ask me about **Linux, Python, Networking or Anonymity
 
 ---
 
