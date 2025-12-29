@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security Enthusiast | Python Developer | Pentester</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=70" />
+<img src="[url=https://postimg.cc/62DW1CJV][img]https://i.postimg.cc/62DW1CJV/1767051599520-4.jpg[/img][/url]" />
 </p>
 
 - 🔭 I’m currently working on **Vortex-IP Rotator**
