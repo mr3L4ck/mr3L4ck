@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mr. 3L4CK</h1>
+<h3 align="center">Cyber Security Enthusiast | Python Developer | Pentester</h3>
 
-<!--
-**mr3L4ck/mr3L4ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=70" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Vortex-IP Rotator**
+- 🌱 I’m currently learning **Advanced Network Security**
+- 💬 Ask me about **Termux, Python, or Anonymity**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr3L4ck&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+</p>
+
