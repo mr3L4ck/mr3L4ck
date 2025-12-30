@@ -22,6 +22,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://i.postimg.cc/prdmrBsS/1767051599520-4.jpg" />
+  <img src="https://i.postimg.cc/cJpqr1TQ/From-Klick-Pin-CF-Graph-Showing-the-Best-Time-of-Day.jpg"  />
 </p>
 
