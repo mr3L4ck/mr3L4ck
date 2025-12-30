@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Networking**
 - 🌱 I’m currently learning **Advanced Network Security**
-- 💬 Ask me about **Linux, Python, Networking or Anonymity
+- 💬 Ask me about **Linux, Python, Networking or Anonymity**
 
 ---
 
